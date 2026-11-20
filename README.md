@@ -10,7 +10,7 @@ Sem framework, sem build, sem dependências — só HTML, CSS e JavaScript.
 
 ## 🚀 Acesso
 
-**Demo:** `(https://vini21501-ctrl.github.io/Portifolio_VA/)`
+**Demo:** `https://vini21501-ctrl.github.io/Portifolio_VA/`
 
 ## 📄 O que tem no site
 

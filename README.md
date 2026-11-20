@@ -10,7 +10,7 @@ Sem framework, sem build, sem dependências — só HTML, CSS e JavaScript.
 
 ## 🚀 Acesso
 
-**Demo:** `https://vini21501-ctrl.github.io/Portfólio_VA/`
+**Demo:** `https://vini21501-ctrl.github.io/Portifolio_VA/`
 
 ## 📄 O que tem no site
 
@@ -53,8 +53,8 @@ A logo e o favicon estão embutidos no `index.html` em base64 — o site funcion
 ## 💻 Rodando localmente
 
 ```bash
-git clone https://github.com/vini21501-ctrl/Portfólio_VA.git
-cd Portfólio_VA
+git clone https://github.com/vini21501-ctrl/Portifolio_VA.git
+cd Portifolio_VA
 
 # basta abrir o index.html no navegador, ou servir a pasta:
 npx serve .
@@ -64,7 +64,7 @@ npx serve .
 
 1. Crie um repositório e envie os três arquivos.
 2. Em **Settings → Pages**, selecione a branch `main` e a pasta `/ (root)`.
-3. Salve: a página entra no ar em `https://vini21501-ctrl.github.io/Portfólio_VA/`.
+3. Salve: a página entra no ar em `https://vini21501-ctrl.github.io/Portifolio_VA/`.
 
 ## 📱 Responsividade
 
